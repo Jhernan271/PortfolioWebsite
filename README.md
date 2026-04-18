@@ -1,1 +1,1 @@
-This is a portfolio website including an HTML/CSS/Javascript and read me file. 
+This is a portfolio website including an HTML/CSS/Javascript and readme file. 
